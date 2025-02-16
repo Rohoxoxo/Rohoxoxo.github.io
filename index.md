@@ -34,6 +34,9 @@ This website will serve as my portfolio, showcasing my skills, projects, and ach
 *(More projects coming soon!)*  
 
 ## Contact Me
-📧 **Email**: rchande@siue.edu
-🔗 **GitHub**: [github.com/rohoxoxo.github.io]https://rohoxoxo.github.io/
-💼 **LinkedIn**: [linkedin.com/in/rohitchadel]https://www.linkedin.com/in/rohitchadel/
+📧 **Email**: rchande@siue.edu  
+🔗 **GitHub**: [rohoxoxo.github.io](https://rohoxoxo.github.io/)  
+💼 **LinkedIn**: [linkedin.com/in/rohitchandel](https://www.linkedin.com/in/rohitchadel/)
+
+
+
