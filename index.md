@@ -11,11 +11,6 @@ excerpt: "This website showcases my projects, skills, and achievements in comput
 I am Rohit Chandel, a Computer Science student interested in web development, data structures, and algorithms.  
 This website will serve as my portfolio, showcasing my skills, projects, and achievements.
 
-
-
-I am Rohit Chandel, a Computer Science student interested in web development, data structures, and algorithms.  
-This website will serve as my portfolio, showcasing my skills, projects, and achievements.
-
 ---
 
 ## My Skills
