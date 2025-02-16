@@ -12,4 +12,33 @@ I am Rohit Chandel, a Computer Science student interested in web development, da
 This website will serve as my portfolio, showcasing my skills, projects, and achievements.
 
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+
+I am Rohit Chandel, a Computer Science student interested in web development, data structures, and algorithms.  
+This website will serve as my portfolio, showcasing my skills, projects, and achievements.
+
+---
+
+## My Skills
+- **Programming:** Python, Java, C++, MS Office
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, VS Code
+- **Other Skills:** Data Structures & Algorithms, Software Engineering
+
+## Education
+- **Bachelor of Science in Computer Science**
+  - Southern Illinois University Illinois, Expected Graduation: May 2026
+
+## My Projects
+
+### **1. CS 325 Assignment - Personal Website**  
+📌 A personal portfolio website built using GitHub Pages and Jekyll. Showcases my skills, projects, and background.  
+
+### **2. Kinematics Lab Analysis (Physics Project)**  
+📌 Analyzed velocity and acceleration data from a physics experiment, applying uncertainty calculations in Python.  
+
+*(More projects coming soon!)*  
+
+## Contact Me
+📧 **Email**: rchande@siue.edu
+🔗 **GitHub**: [github.com/rohoxoxo.github.io]https://rohoxoxo.github.io/
+💼 **LinkedIn**: [linkedin.com/in/rohitchadel]https://www.linkedin.com/in/rohitchadel/
